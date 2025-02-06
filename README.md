@@ -32,21 +32,33 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jerichofeolino&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jerichofeolino&layout=compact&langs_count=7&theme=tokyonight"/>
+  <a href="https://github.com/jerichofeolino">
+    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jerichofeolino&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  </a>
+  <a href="https://github.com/jerichofeolino">
+    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jerichofeolino&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+  </a>
 </div>
 
 ### 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jerichofeolino&theme=nord&column=7" />
-</p>
+<div align="center">
+  <a href="https://github.com/jerichofeolino">
+    <img src="https://github-trophies.vercel.app/?username=jerichofeolino&theme=nord&column=7&margin-w=15&margin-h=15&no-frame=true" />
+  </a>
+</div>
 
-### 📈 Contribution Graph
+### 📈 Activity Graph
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jerichofeolino&theme=tokyonight" />
-</p>
+<div align="center">
+  <a href="https://github.com/jerichofeolino">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=jerichofeolino&theme=tokyo-night&hide_border=true" />
+  </a>
+  
+  <a href="https://github.com/jerichofeolino">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jerichofeolino&theme=tokyonight&hide_border=true" />
+  </a>
+</div>
 
 ---
 
