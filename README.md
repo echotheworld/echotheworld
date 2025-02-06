@@ -31,5 +31,5 @@
 
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jerichofeolino&color=blueviolet" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=echotheworld&color=blueviolet" alt="Profile views" />
 </p>
