@@ -4,6 +4,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Software+Engineer;Full+Stack+Developer;Always+learning+new+things" alt="Typing SVG" />
 </p>
 
+<div align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3Z3aWd3NmR0Z2RmMTI0YmZlazd2aGpkazBhZ2NuYzNyamJ1cmt1ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WcYnTzdrjQphdu33xs/giphy.gif" alt="Coding Animation" />
+</div>
+
 ### 👨‍💻 About Me
 
 - 🔭 I'm passionate about building scalable and efficient software solutions
